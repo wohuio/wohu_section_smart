@@ -6,6 +6,7 @@
   "description": "Modern smartphone-optimized section with gradient backgrounds and customizable content",
   "license": "MIT",
   "repository": "https://github.com/wohuio/wohu_section_smart",
+  "icon": "section",
   "preview": {
     "width": 1200,
     "height": 400

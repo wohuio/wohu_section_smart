@@ -3,6 +3,7 @@ export default {
     label: {
       en: "Smart Section",
     },
+    icon: "section",
   },
   properties: {
     // Content Properties
